@@ -1,6 +1,6 @@
   Olá!
 
-  Meu nome e Daniel Galvão tenho 14 anos é sou um progamador front end,espero ter um futuro promissor dentro dessa area de TI :computer: atualmente estou criando projetos com:
+   Daniel Galvão, 14 anos, progamador front end, espero ter um futuro promissor dentro dessa area de TI :computer: atualmente estou criando projetos com:
 
 
   . <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="img-logo"  />
